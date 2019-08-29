@@ -1,0 +1,2 @@
+tetrisAi
+numpy>=1.17.1
